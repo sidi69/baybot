@@ -14,7 +14,7 @@ Disclaimer: Botting ebay listing views is strictly against ebay's TOS. This tool
 
 ## Usage example
 
-After running the tool you will be presented with a confirguration dialogue. Enter the amount of threads. For the best experience use < 500 threads (Prevents getting your IP rate limited). Then the final thing you need to do is provice the listing URL. That's everything, the botting will start automatically. You can ALT + F4 when you have enough views added.
+After running the tool you will be presented with a confirguration dialogue. Enter the amount of threads. For the best experience use < 500 threads (Prevents getting your IP rate limited). Then the final thing you need to do is provide the listing URL. That's everything, the botting will start automatically. You can ALT + F4 when you have enough views added.
 
 ## Release History
 
